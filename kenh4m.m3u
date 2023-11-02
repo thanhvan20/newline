@@ -1,0 +1,180 @@
+#-------------------K+-------------------#
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+Cine (DRM)
+http://ictu.giize.com:2023/udp/225.1.1.5:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/6cszSeR.png",K+Life (DRM)
+http://ictu.giize.com:2023/udp/225.1.1.6:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+Sport 1 (DRM)
+http://ictu.giize.com:2023/udp/225.1.1.73:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+Sport 2 (DRM)
+http://ictu.giize.com:2023/udp/225.1.1.77:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+Kids (DRM)
+http://ictu.giize.com:2023/udp/225.1.1.76:30120
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.1:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.2:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.3:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.4:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.5:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.108:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.201:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.7:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.8:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.184:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.179:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.42:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.43:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.48:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.49:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/wnNBcEo.png",VTC13 HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.52:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.53:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.54:30120
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.211:30120
+#EXTINF:-1 group-title="Mua Sắm",VTVcab13
+http://ictu.giize.com:2023/udp/225.1.4.79:30120
+#EXTINF:-1 group-title="Mua Sắm",HTVC VGS SHOP
+http://ictu.giize.com:2023/udp/225.1.4.89:30120
+#EXTINF:-1 group-title="Mua Sắm",BTV11
+http://ictu.giize.com:2023/udp/225.1.4.84:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/uSbnTdO.png",HTV2 (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.56:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.59:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.11:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV THỂ THAO (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.60:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.67:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca Nhạc (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.223:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.64:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.63:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.66:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.62:30120
+#EXTINF:-1 group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.91:30120
+#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.221:30120
+#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Ud78FHF.png",Nhân Dân TV (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.98:30120
+#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.148:30120
+#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.170:30120
+#EXTINF:-1 group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/GmefCpv.png",VNEWS (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.219:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/05t6W7v.png",BGTV HD _ TH Bắc Giang
+http://ictu.giize.com:2023/udp/225.1.4.173:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/msjevyp.png",TBK HD _ TH Bắc Kạn
+http://ictu.giize.com:2023/udp/225.1.4.174:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD _ TH Hà Nội (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.203:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD _ TH Đồng Tháp (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.125:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.177:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.202:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.87:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.176:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.217:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV HD _ TH Trà Vinh (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.164:30120
+#EXTINF:-1 group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV HD _ TH Hậu Giang (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.133:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",ABC AUSTRALIA (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.19:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Animal Planet (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.209:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Animax HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.168:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Asian Food Network (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.36:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",AXN (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.9:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",BabyTV (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.207:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",BBC CBeeBies (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.29:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",BBC Earth (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.21:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",BBC Lifestyle (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.23:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",BBC News (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.22:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",BLOOMBERG (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.18:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",CARTOON NETWORK (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.13:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Cartoonito (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.16:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Cinema World (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.15:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",CINEMAX (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.205:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",CNA (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.76:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",CNN (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.17:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Da Vinci (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.208:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Discovery Asia (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.25:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Discovery Channel (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.24:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Dreamworks (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.39:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",DW (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.75:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",FASHION TV (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.20:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",FRANCE 24 (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.212:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",HBO (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.90:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",HBO (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.183:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",KBS WORLD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.214:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",KIX (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.40:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",NATIONAL GEOGRAPHIC HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.215:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",NAT GEO WILD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.83:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",NHK WORLD JAPAN (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.73:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",Outdoor Channel (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.210:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",TLC (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.26:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",TV5 MONDE ASIE (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.213:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/insertlogo.png",WBTV HD (HD 4Mbps)
+http://ictu.giize.com:2023/udp/225.1.4.14:30120
